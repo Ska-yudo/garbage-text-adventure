@@ -1,0 +1,8 @@
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\bin\Debug\SoD Parse.exe.config
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\bin\Debug\SoD Parse.exe
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\bin\Debug\SoD Parse.pdb
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\obj\Debug\SoD Parse.csprojResolveAssemblyReference.cache
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\obj\Debug\SoD Parse.exe
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\obj\Debug\SoD Parse.pdb
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\bin\Debug\NLog.dll
+c:\users\cislaptop51\documents\visual studio 2015\Projects\SoD Parse\SoD Parse\bin\Debug\NLog.xml
